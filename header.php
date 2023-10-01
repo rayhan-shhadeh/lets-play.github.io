@@ -45,8 +45,7 @@
                             </li>
                         </ul>
                     </div>
-                    <a href="#" class="bg  d-lg-block" style=" color: #ffffff; background-image: -webkit-gradient(linear, right top, left top, from(#133b7c), color-stop(91%, #0b264b), to(#68a5eb));
-                        ">Sign Up</a>
+
                 </nav>
             </div>
         </div>

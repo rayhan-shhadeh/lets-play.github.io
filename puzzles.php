@@ -112,17 +112,7 @@
     </div>
 </div>
 
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="inner-content">
-                    <p>Copyright © 2023 Rayhan Shhadeh</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+<?php include ('footer.php');?>
 
 
 <!-- Bootstrap core JavaScript -->

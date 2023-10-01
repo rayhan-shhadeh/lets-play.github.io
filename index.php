@@ -152,13 +152,52 @@
                     <div class="banner_text">
                         <div class="banner_text_iner">
                             <h1>Best Highlights
-                                of the Latest Puzzles</h1>
+                                of the Latest Games</h1>
+
+                            <div class="latest-products">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="section-heading">
+                                                <h2>Brain Games</h2>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="product-item">
+                                                <a href="c1.php"><img src="/img/c11.PNG" alt=""></a>
+                                                <div class="down-content">
+                                                    <a href="c1.php"><h4>Puzzle Game</h4></a>
+                                                    <h6><small><del>50$.00 </del></small> $30.00</h6>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dicta voluptas quia dolor fuga odit.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-4">
+                                            <div class="product-item">
+                                                <a href="p1.php"><img src="/img/p11.jpg"  alt=""></a>
+                                                <div class="down-content">
+                                                    <a href="p1.php"><h4>Brain Games</h4></a>
+                                                    <h6><small><del>$99.00</del></small>  $79.00</h6>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non beatae soluta, placeat vitae cum maxime culpa itaque minima.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+
+
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <?php include ('footer.php');?>
 
     <!-- Template Javascript -->
 

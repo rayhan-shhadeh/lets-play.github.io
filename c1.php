@@ -252,6 +252,7 @@
         </div>
     </div>
 </div>
+<?php include ('footer.php');?>
 
 
 <!-- Bootstrap core JavaScript -->
