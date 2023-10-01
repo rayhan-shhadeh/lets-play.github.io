@@ -115,7 +115,7 @@
     </video>
 </div>
 <div class="lets-play">
-    <h2>LET'S PLAY</h2>
+    <h2>Brain Games</h2>
 </div>
 
 
@@ -125,34 +125,47 @@
         <div class="row">
             <div class="col-md-4 col-xs-12">
                 <div>
-                    <img src="img/c11.PNG" alt="" class="img-fluid wc-image">
+                    <img src="img/z11.jpg" alt="" class="img-fluid wc-image">
                 </div>
                 <br>
                 <div class="row">
                     <div class="col-sm-4 col-xs-6">
                         <div>
-                            <img src="img/cc2.PNG" alt="" class="img-fluid">
+                            <img src="img/p11.jpg" alt="" class="img-fluid">
                         </div>
                         <br>
                     </div>
                     <div class="col-sm-4 col-xs-6">
                         <div>
-                            <img src="img/c11.PNG" alt="" class="img-fluid">
+                            <img src="img/p12.jpg" alt="" class="img-fluid">
                         </div>
                         <br>
                     </div>
+                    <div class="col-sm-4 col-xs-6">
+                        <div>
+                            <img src="img/p13.jpg" alt="" class="img-fluid">
+                        </div>
+                        <br>
+                    </div>
+                    <div class="col-sm-4 col-xs-6">
+                        <div>
+                            <img src="img/p14.jpg" alt="" class="img-fluid">
+                        </div>
+                        <br>
+                    </div>
+
 
                 </div>
             </div>
 
             <div class="col-md-8 col-xs-12">
                 <form action="#" method="post" class="form">
-                    <h2>Red and Black chess.</h2>
+                    <h2>Kids Puzzle</h2>
 
                     <br>
 
                     <p class="lead">
-                        <small><del> $70.00</del></small><strong class="text-primary">$40.00</strong>
+                        <small><del> $90.00</del></small><strong class="text-primary">$30.00</strong>
                     </p>
 
                     <br>

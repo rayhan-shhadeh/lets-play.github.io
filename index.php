@@ -91,13 +91,17 @@
                     <div class="team-item rounded overflow-hidden">
                         <div class="position-relative">
                             <div style="background-color: #fff">
-                                <lord-icon
-                                        src="https://cdn.lordicon.com/ndfdylqe.json"
-                                        trigger="morph"
-                                        colors="primary:#a5ebff,secondary:#000000"
-                                        b
-                                        style="width:250px;height:265px">
-                                </lord-icon>
+                                <a class=" mx-1" href="puzzles.php">
+                                    <lord-icon
+                                            src="https://cdn.lordicon.com/ndfdylqe.json"
+                                            trigger="morph"
+                                            colors="primary:#a5ebff,secondary:#000000"
+                                            b
+                                            style="width:250px;height:265px">
+                                    </lord-icon>
+                                    </i></a>
+
+
                             </div>
                             <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
                             </div>
