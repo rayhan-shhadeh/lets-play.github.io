@@ -1,3 +1,5 @@
+
+
 <header class="main_menu single_page_menu">
     <div class="container">
         <div class="row align-items-center">
@@ -20,16 +22,22 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="index.php">Home</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="cart.php">Cart</a>
+                            </li>
 
 
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="categories.php" id="navbarDropdown1"
+                                <a class="nav-link dropdown-toggle" href="c1.php" id="navbarDropdown1"
                                    role="button" data-toggle="dropdown" aria-haspopup="true"
                                    aria-expanded="false">
                                     Categories
                                 </a>
-                                <a class="dropdown-item" href="chess.php"> Chess</a>
-                                <a class="dropdown-item" href="brain-games.php"> Brain Games</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="chess.php"> Chess</a>
+                                    <a class="dropdown-item" href="puzzles.php">Puzzles</a>
+                                    <a class="dropdown-item" href="brain-games.php">Brain Games</a>
+                                </div>
 
                             </li>
                             <li class="nav-item">
@@ -37,7 +45,7 @@
                             </li>
                         </ul>
                     </div>
-                    <a href="#" class="bg  d-lg-block" style=" color: #ffffff; padding:3px; background-image: -webkit-gradient(linear, right top, left top, from(#133b7c), color-stop(91%, #0b264b), to(#68a5eb));
+                    <a href="#" class="bg  d-lg-block" style=" color: #ffffff; background-image: -webkit-gradient(linear, right top, left top, from(#133b7c), color-stop(91%, #0b264b), to(#68a5eb));
                         ">Sign Up</a>
                 </nav>
             </div>

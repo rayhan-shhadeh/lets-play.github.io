@@ -110,7 +110,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item rounded overflow-hidden">
                         <div class="position-relative">
-                            <a class=" mx-1" href="puzzles.php"><img class="img-fluid" src="img/chess.gif" alt=""></i></a>
+                            <a class=" mx-1" href="chess.php"><img class="img-fluid" src="img/chess.gif" alt=""></i></a>
                             <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
 
                             </div>
@@ -123,7 +123,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item rounded overflow-hidden">
                         <div class="position-relative">
-                            <a class=" mx-1" href="puzzles.php"><img class="img-fluid" src="img/brain.gif" alt=""></i></a>
+                            <a class=" mx-1" href="brain-games.php"><img class="img-fluid" src="img/brain.gif" alt=""></i></a>
                             <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
 
                             </div>
